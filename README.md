@@ -29,4 +29,10 @@ The ANN model consists of the following layers:
 2. Hidden Layers: Includes multiple fully connected layers with ReLU activation.
 3. Output Layer: A single neuron with sigmoid activation to predict the probability of churn.
 
+## Requirements
+
+```bash
+pip install numpy pandas scikit-learn tensorflow
+```
+
 
